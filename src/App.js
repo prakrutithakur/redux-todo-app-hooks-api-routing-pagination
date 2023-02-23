@@ -145,7 +145,7 @@ function App() {
   return (
     <div className="App">
 
-      <h1>Redux App and Pagination </h1>
+      <h1>Redux App, Pagination and ErrorBoundary </h1>
 
       {/* Todo using useSelector and useDispatch */}
 
