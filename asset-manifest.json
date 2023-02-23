@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/redux-todo-app-hooks-api-routing-pagination/static/css/main.b3e4d518.css",
-    "main.js": "/redux-todo-app-hooks-api-routing-pagination/static/js/main.0dd203f5.js",
+    "main.js": "/redux-todo-app-hooks-api-routing-pagination/static/js/main.65d95e08.js",
     "index.html": "/redux-todo-app-hooks-api-routing-pagination/index.html",
     "main.b3e4d518.css.map": "/redux-todo-app-hooks-api-routing-pagination/static/css/main.b3e4d518.css.map",
-    "main.0dd203f5.js.map": "/redux-todo-app-hooks-api-routing-pagination/static/js/main.0dd203f5.js.map"
+    "main.65d95e08.js.map": "/redux-todo-app-hooks-api-routing-pagination/static/js/main.65d95e08.js.map"
   },
   "entrypoints": [
     "static/css/main.b3e4d518.css",
-    "static/js/main.0dd203f5.js"
+    "static/js/main.65d95e08.js"
   ]
 }
